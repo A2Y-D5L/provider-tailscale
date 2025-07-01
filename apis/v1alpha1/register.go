@@ -13,7 +13,7 @@ import (
 
 // Package type metadata.
 const (
-	Group   = "template.upbound.io"
+	Group   = "tailscale.tailscale.com"
 	Version = "v1alpha1"
 )
 

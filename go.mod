@@ -1,4 +1,4 @@
-module github.com/upbound/upjet-provider-template
+module github.com/supahlab/provider-tailscale
 
 go 1.21
 
